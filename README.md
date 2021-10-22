@@ -1,2 +1,0 @@
-# Soduku
-Soduku_solver
